@@ -1,26 +1,10 @@
-Policy
+Privacy Policy
 
-1.Why do we have a Privacy Policy?
-
-When you access, view, browse and use Bandai Namco Europe’s websites and the services they offer, you may be required to provide Bandai Namco Europe with personal data about you.
-
-Bandai Namco Europe processes your personal data in accordance with the applicable data protection laws, including the General Data Protection Regulation (GDPR).
-
-The purpose of this policy is to provide you with information on how Bandai Namco Europe processes the personal data about you that are collected from its sites.
-
-Please read it carefully to understand our privacy policy and how we handle your personal data. This policy should be read in conjunction with any document or information referring to the policy.
-
-1. Consent to Policy
-
-By installing and using the application, you consent to this Privacy Policy and the collection, use and sharing of the personal data described in this Policy. If you do not agree, do not install the application or use the application.
+1. By installing and using the application, you consent to this Privacy Policy and the collection, use and sharing of the personal data described in this Policy. If you do not agree, do not install the application or use the application.
 
 If you are under the age of 16, you will not be able to use the applications and services.
 
-2. Scope of Policy
-
-The scope of this Privacy Policy is limited to the personal data collected by you using our applications and services.
-
-This application may contain links to external sites. Clicking on a third-party link will redirect you to that site. Please note that we have no control and responsibility for the content and Privacy Policies of third-party sites or services.
+2. This application may contain links to external sites. Clicking on a third-party link will redirect you to that site. Please note that we have no control and responsibility for the content and Privacy Policies of third-party sites or services.
 
 3. Information and Data we collect from you
 
@@ -46,23 +30,13 @@ We do not knowingly collect any special categories of personal data (personal da
 
 4. Your right
 
-Your right to rectification of your data: 
-
 You have the right to ask us, as the case may be, to rectify or complete your personal data that are inaccurate, incomplete, ambiguous, expired.
-
-Your right to erasure of your data: 
 
 You have the right to ask us to erase your personal data in the cases provided for by laws and regulations. Please note, however, that the right to erasure is not a general right and can only be exercised if one of the reasons provided for in the applicable laws is met.
 
-Your right to restriction of processing of your data: 
-
 You have the right to request restriction of processing of your personal data in the cases provided for by laws and regulations.
 
-Your right to object: 
-
 You have the right to object, on grounds relating to your particular situation, at any time to processing of your personal data which is based on the legitimate interest pursued by the controller.
-
-Your right to data portability: 
 
 You have the right to portability of your personal data. Please note, however, that the right to data portability is not a general right. Not all data from all processing operations are portable; the right to data portability only concerns processing carried out by automated means to the exclusion of manual or paper processing. This right is limited to processing based on your consent, or on the taking of steps prior to entering into a contract, or on the performance of a contract.
 
@@ -84,53 +58,9 @@ In order to prevent the loss, destruction, falsification, damage, leakage, etc. 
 
 We always make every effort to protect your personal information, but we do not guarantee or represent that your information is fully protected.
 
-7. Rights of users under GDPR or the equivalents
+7. Transferring of your personal data
 
-If you are under GDPR or the equivalents, you have the following rights regarding the processing of personal data:
-
-When you exercise the following rights, you can send a request to the contacts listed in the "Contacts" section.
-
-We may ask you to provide certain information in order to identify and correct your data.
-
-Right to withdraw consent
-
-You have the right to withdraw your consent at any time in accordance with Article 7(3), paragraph 3 of the GDPR.
-
-If you wish to withdraw your consent, please contact us at the address specified in this policy to withdraw your consent. The withdrawal of this consent cannot affect the legality of the treatment based on the consent before the withdrawal.
-
-If you withdraw your consent, you will not be able to continue using the applications and services.
-
-Right of access and rectification
-
-You have the right to receive confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data in accordance with Article 15 of the GDPR.
-
-You also have the right to obtain from us without undue delay the rectification of inaccurate personal data concerning you in accordance with Article 16 of the GDPR.
-
-Right of erasure and restriction of processing
-
-In accordance with Article 17 of the GDPR, you shall have the right to obtain from us the erasure of personal data concerning you without undue delay.
-
-You also have the right to restrict the handling of personal data in accordance with Article 18 of the GDPR.
-
-However, if your personal data is legitimately used to provide our services and for other purposes, we may reject your request or ask you to postpone the response.
-
-Right to data portability
-
-In accordance with Article 20 of the GDPR, you shall have the right to receive the personal data which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from us to which the personal data have been provided.
-
-And you have the right to have the personal data transmitted directly from us to another, where technically feasible.
-
-Right to object
-
-in accordance with Article 21 of the GDPR, you shall have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning you.
-
-Right to lodge a complaint with a supervisory authority
-
-In accordance with Article 77 of the GDPR, without prejudice to any other administrative or judicial remedy, you shall have the right to lodge a complaint with a supervisory authority, in particular in the Member State of his or her habitual residence, place of work or place of the alleged infringment if you considers that the processing of personal data relating to you infringes this Regulation.
-
-Transferring of your personal data
-
-We may transfer and process your personal data from your country or region of residence to Japan and other countries around the world. We may share your information with international organizations as partner. Please note that these countries and jurisdictions may not have the same data protection laws as your country.
+We may transfer and process your personal data from your country or region of residence to other countries around the world. We may share your information with international organizations as partner. Please note that these countries and jurisdictions may not have the same data protection laws as your country.
 
 8. Can third parties collect data about our products and services?
 
@@ -157,4 +87,3 @@ Emailing address: shwl8346@163.com
 
 This Privacy Policy may be modified or changed at any time.
 If we make any material changes in how we collect, use or share your personal information, we will publish a clearly visible notice on the websites advising visitors/players of the changes made.
-Any material changes to this Privacy Policy will come into force 30 days after publication of the change notice for this Privacy Policy.
